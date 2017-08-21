@@ -3,3 +3,4 @@ AR + A.I.
 
 # To-do list
 *  Build chat system to support 2+ user communication
+*  Set up database to get, update, delete data
